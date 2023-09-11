@@ -42,13 +42,10 @@ Welcome to the Face-Tagger Organization. We specialize in facial recognition and
 - **Getting Started**:
   Experience the frontend by cloning the repository, installing dependencies, and launching the sample. [See detailed steps](https://github.com/Face-Tagger/facetagger-fe/blob/main/README.md#getting-started).
 
-- **Contributing**:
-  Interested in tweaking the frontend? Review our [contribution guide](https://github.com/Face-Tagger/facetagger-fe/blob/main/README.md#contributing).
-
 - **License**: [MIT](https://github.com/Face-Tagger/facetagger-fe/blob/main/LICENSE)
 
 <br>
 
 ## Contact & Support
 
-For issues, suggestions, or feature requests, kindly raise an issue in the respective repository. We always look forward to community feedback and collaboration!
+For issues, suggestions, or feature requests, kindly raise an issue in the respective repository.
